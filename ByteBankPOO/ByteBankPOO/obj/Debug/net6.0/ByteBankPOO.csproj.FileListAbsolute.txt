@@ -1,0 +1,45 @@
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.exe
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.deps.json
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.runtimeconfig.json
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.dll
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.pdb
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.csproj.AssemblyReference.cache
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.AssemblyInfoInputs.cache
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.AssemblyInfo.cs
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.dll
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\obj\Debug\net6.0\refint\ByteBankPOO.dll
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.pdb
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.genruntimeconfig.cache
+E:\SHARPCODERS\PROJETOS SHARPCODERS\ByteBankPOO\obj\Debug\net6.0\ref\ByteBankPOO.dll
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.csproj.AssemblyReference.cache
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.AssemblyInfoInputs.cache
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.AssemblyInfo.cs
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.csproj.CoreCompileInputs.cache
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.dll
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\obj\Debug\net6.0\refint\ByteBankPOO.dll
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.pdb
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.exe
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.deps.json
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.runtimeconfig.json
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.dll
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.pdb
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.genruntimeconfig.cache
+C:\Users\RHBLX\Desktop\bytebankpoo-main\ByteBankPOO\obj\Debug\net6.0\ref\ByteBankPOO.dll
+C:\Users\RHBLX\Desktop\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.exe
+C:\Users\RHBLX\Desktop\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.deps.json
+C:\Users\RHBLX\Desktop\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.runtimeconfig.json
+C:\Users\RHBLX\Desktop\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.dll
+C:\Users\RHBLX\Desktop\ByteBankPOO\bin\Debug\net6.0\ByteBankPOO.pdb
+C:\Users\RHBLX\Desktop\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.csproj.AssemblyReference.cache
+C:\Users\RHBLX\Desktop\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RHBLX\Desktop\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.AssemblyInfoInputs.cache
+C:\Users\RHBLX\Desktop\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.AssemblyInfo.cs
+C:\Users\RHBLX\Desktop\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.csproj.CoreCompileInputs.cache
+C:\Users\RHBLX\Desktop\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.dll
+C:\Users\RHBLX\Desktop\ByteBankPOO\obj\Debug\net6.0\refint\ByteBankPOO.dll
+C:\Users\RHBLX\Desktop\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.pdb
+C:\Users\RHBLX\Desktop\ByteBankPOO\obj\Debug\net6.0\ByteBankPOO.genruntimeconfig.cache
+C:\Users\RHBLX\Desktop\ByteBankPOO\obj\Debug\net6.0\ref\ByteBankPOO.dll
